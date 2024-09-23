@@ -16,8 +16,6 @@ SRCS =  main.c\
 		expand_var.c\
 		extract_word.c\
 		create_commands.c\
-		gnl/get_next_line.c\
-		gnl/get_next_line_utils.c\
 		error.c\
 		free.c\
 		utils.c\
